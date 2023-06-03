@@ -1,0 +1,53 @@
+body{
+    align-items: center;
+    background: linear-gradient(200deg, black, rgba(49, 47, 47, 0.4)),url(./adosightsee.png) center/cover no-repeat fixed;
+    color: white;
+    align-content: center;
+    text-align: center;
+    
+}
+
+#count-el{
+    font-size: 60px;
+    font-weight: bolder;
+    margin-top: 5px;
+}
+
+h1{
+    margin-top: 50px;
+    text-shadow: black 0 10px 5px;
+    font-size: 50px;
+}
+
+#increment-btn{
+    padding: 10px 40px;
+    background-color: rgb(48, 51, 212);
+    
+}
+
+button{
+    color: white;
+    font-size: larger;
+    border-radius: 10px;
+}
+
+#save-el{
+    padding: 10px 40px;
+    background-color: rgba(240, 240, 8, 0.582);
+    
+}
+
+#clear-btn{
+    padding: 10px 40px;
+    background-color: rgb(189, 28, 22);
+}
+p{
+    font-size: 25px;
+}
+.max{
+    max-width:80%;
+    margin:  50px auto;
+    border: 1px solid white;
+    border-radius: 10px;
+
+}
